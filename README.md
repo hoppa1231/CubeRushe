@@ -1,2 +1,2 @@
-# CubeRushe
+# CubeRush
 Game))
